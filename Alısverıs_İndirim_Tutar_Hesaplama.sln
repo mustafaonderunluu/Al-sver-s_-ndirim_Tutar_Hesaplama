@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alısverıs_İndirim_Tutar_Hesaplama", "Alısverıs_İndirim_Tutar_Hesaplama\Alısverıs_İndirim_Tutar_Hesaplama.csproj", "{1430E58D-0720-4063-B560-9CB0BB425FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1430E58D-0720-4063-B560-9CB0BB425FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1430E58D-0720-4063-B560-9CB0BB425FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1430E58D-0720-4063-B560-9CB0BB425FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1430E58D-0720-4063-B560-9CB0BB425FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82BD22C-B1C7-4D2F-8935-774B362CC706}
+	EndGlobalSection
+EndGlobal
